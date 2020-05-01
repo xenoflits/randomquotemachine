@@ -1,6 +1,6 @@
 import React from 'react'
 
-const QuoteButton = () => {
+const QuoteButton = (props) => {
     return(<button>New Quote</button>)
 }
 
