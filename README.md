@@ -19,3 +19,10 @@ And I have an error TypeError: undefined has no properties at this moment. Going
 
 23:16 stupid mistake, used this.props on a stateless component. my initial quote comes in. but at this moment its not random.
 
+23:29 refactored a bit, the getquote function is called when component gets mounted, and now I will bind it to the button as well.
+
+23:37 since the api only has 10 quotes, made sure that the same quote won't get displayed twice in a row with an while function
+
+00:06 got out of time, but the functionality works. It may look simple, but I got more experienced for sure.
+
+
